@@ -1,3 +1,6 @@
 first file demo for hello world
 
-online chenges from online editor  
+online chenges from online editor 
+
+
+update first file.txt localy from smartgit 

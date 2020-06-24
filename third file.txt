@@ -1,0 +1,1 @@
+update new third file.txt localy from smartgit 
